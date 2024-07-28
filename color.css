@@ -4,7 +4,7 @@
     height: 400px;
     position: absolute;
     /* background-color: rgb(7, 76, 24); */
-    background: linear-gradient(to left,#104e08 80% ,#e8ede9 20%);
+    background: linear-gradient(to left,#104e08 75% ,#FFFFFF 25%);
     /* transform: rotate(-90deg); */
     border: 0.5px solid black;
     top: 9px;
